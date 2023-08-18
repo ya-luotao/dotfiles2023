@@ -6,6 +6,7 @@ alias ll="ls -lha"
 alias code="code-insiders"
 alias projects="cd ~/Projects"
 alias mrsk='docker run --rm -it -v $HOME/.ssh:/root/.ssh -v /var/run/docker.sock:/var/run/docker.sock -v ${PWD}/:/workdir  ghcr.io/mrsked/mrsk'
+alias brewbundle="brew bundle --file ~/.Brewfile"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
