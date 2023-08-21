@@ -8,6 +8,7 @@ alias projects="cd ~/Projects"
 alias dotfiles="cd ~/.dotfiles"
 alias mrsk='docker run --rm -it -v $HOME/.ssh:/root/.ssh -v /var/run/docker.sock:/var/run/docker.sock -v ${PWD}/:/workdir  ghcr.io/mrsked/mrsk'
 alias brewbundle="brew bundle --file ~/.Brewfile"
+alias brewdump="brew bundle dump --force"
 alias reload="source ~/.zshrc"
 
 export NVM_DIR="$HOME/.nvm"
