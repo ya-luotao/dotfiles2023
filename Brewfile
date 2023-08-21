@@ -9,6 +9,7 @@ brew "rcm"
 brew "redis", restart_service: true
 brew "ripgrep"
 brew "tig"
+cask "arc"
 cask "font-intel-one-mono"
 cask "font-jetbrains-mono-nerd-font"
 cask "sublime-text"
