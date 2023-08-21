@@ -1,6 +1,7 @@
 # dotfiles (2023)
 
 ```
+.
 ├── Brewfile
 ├── README.md
 ├── config
@@ -18,11 +19,14 @@
 │   │   │   │   ├── lazy.lua
 │   │   │   │   └── options.lua
 │   │   │   └── plugins
-│   │   │       └── example.lua
+│   │   │       ├── example.lua
+│   │   │       └── ruby_plugins.lua
 │   │   └── stylua.toml
 │   └── zed
 │       └── settings.json
 ├── rcrc
 ├── vimrc
 └── zshrc
+
+8 directories, 18 files
 ```
