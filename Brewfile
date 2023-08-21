@@ -6,4 +6,5 @@ brew "neovim", args: ["HEAD"]
 brew "python@3.11"
 brew "rcm"
 brew "redis", restart_service: true
+brew "ripgrep"
 brew "tig"
