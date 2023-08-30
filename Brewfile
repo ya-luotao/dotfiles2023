@@ -6,6 +6,8 @@ brew "openssl@1.1", link: true
 brew "mysql@5.7", restart_service: true, link: true
 brew "neovim", args: ["HEAD"]
 brew "python@3.11"
+brew "ruby-build"
+brew "rbenv"
 brew "rcm"
 brew "redis", restart_service: true
 brew "ripgrep"
