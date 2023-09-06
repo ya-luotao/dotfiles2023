@@ -18,3 +18,4 @@ export NVM_DIR="$HOME/.nvm"
 export PATH="/Applications/Sublime Text.app/Contents/SharedSupport/bin:$PATH"
 
 eval "$(rbenv init - zsh)"
+eval $(thefuck --alias)

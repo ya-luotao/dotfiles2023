@@ -12,6 +12,7 @@ brew "rbenv"
 brew "rcm"
 brew "redis", restart_service: true
 brew "ripgrep"
+brew "thefuck"
 brew "tig"
 brew "tmux"
 brew "tree"
