@@ -6,3 +6,8 @@
 ```
 make update-astro-nvim
 ```
+
+### Update AstoNvim user config
+```
+make update-astro-nvim-user-config
+```
