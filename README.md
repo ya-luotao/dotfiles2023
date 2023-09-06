@@ -7,7 +7,7 @@
 make update-astro-nvim
 ```
 
-### Update AstoNvim user config
+### Init clone AstoNvim user config
 ```
-make update-astro-nvim-user-config
+make init-astro-nvim-user-config
 ```
