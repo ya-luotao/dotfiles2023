@@ -3,10 +3,12 @@ tap "homebrew/cask-fonts"
 tap "homebrew/services"
 brew "python@3.11"
 brew "awscli"
+brew "cmake"
+brew "lpeg"
 brew "memcached", restart_service: true
 brew "openssl@1.1", link: true
 brew "mysql@5.7", restart_service: true, link: true
-brew "neovim", args: ["HEAD"]
+brew "neovim"
 brew "ruby-build"
 brew "rbenv"
 brew "rcm"
