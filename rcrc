@@ -1,1 +1,1 @@
-EXCLUDES="*.md LICENSE"
+EXCLUDES="*.md LICENSE Makefile"
