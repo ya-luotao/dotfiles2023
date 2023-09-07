@@ -7,9 +7,9 @@ return {
   -- { import = "astrocommunity.colorscheme.catppuccin" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 
-  { import = "astrocommunity.pack.godot" },
-  { import = "astrocommunity.pack.html-css" },
-  { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.pack.php" },
-  { import = "astrocommunity.pack.ruby" },
+  -- { import = "astrocommunity.pack.godot" },
+  -- { import = "astrocommunity.pack.html-css" },
+  -- { import = "astrocommunity.pack.lua" },
+  -- { import = "astrocommunity.pack.php" },
+  -- { import = "astrocommunity.pack.ruby" },
 }
