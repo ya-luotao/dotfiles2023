@@ -3,6 +3,8 @@ export https_proxy=http://127.0.0.1:1235;export http_proxy=http://127.0.0.1:1235
 eval "$(starship init zsh)"
 
 alias ll="ls -lha"
+alias vi="nvim"
+alias vim="nvim"
 alias code="code-insiders"
 alias projects="cd ~/Projects"
 alias dotfiles="cd ~/.dotfiles"
