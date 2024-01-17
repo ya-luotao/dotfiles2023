@@ -12,3 +12,5 @@ init-astro-nvim-user-config:
 	rm .tmp/.gitignore
 	cp -rp .tmp/* config/nvim/lua/user/
 	rm -rf .tmp
+brew-bundle-dump:
+	brew bundle dump --force
